@@ -8,7 +8,7 @@ from math import sqrt
 
 lado_A = int(input('Introduce el primer lado del triángulo: '))
 lado_B = int(input('Introduce el segundo lado: '))
-lado_C = int(input('Introduce el tercer lado: '))
+lado_C = int(input('Introduce el tercer lado: '.))
 
 perimetro = lado_A + lado_B + lado_C
 
