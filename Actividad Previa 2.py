@@ -1,6 +1,6 @@
 ###########################################################################
 #Este es el código escrito para los ejercicios de la Actividad Previa 2
-#No todos los Ejercicios requieren código per se
+#No todos los Ejercicios requieren código per se fdhgdfgdfhd
 ###########################################################################
 #EJERCICIO 38
 print('Ejercicio 38')
